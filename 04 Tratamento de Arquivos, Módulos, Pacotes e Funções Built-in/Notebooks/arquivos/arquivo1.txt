@@ -1,1 +1,1 @@
-Testando gravação de arquivos em Python  Acrescentando conteúdo
+Testando gravaÃ§Ã£o de arquivos em Python  Acrescentando conteÃºdo Acrescentando conteÃºdo
