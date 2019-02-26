@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Cientista de Dados Ã© a profissÃ£o que mais tem crescido em todo mundo. Esses profissionais precisam se especializar em ProgramaÃ§Ã£o, EstatÃ­stica e Machine Learning. E claro, em Big Data. 
+=======
+Cientista de Dados é 
+Cientista de Dados é a profissão 
+>>>>>>> 6221e70713e4de6853b2e2c35bae7cb2ac8f8b84
