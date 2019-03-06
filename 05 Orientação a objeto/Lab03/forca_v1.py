@@ -71,7 +71,7 @@ class Hangman:
 
 	# Método Construtor
 	def __init__(self, word):
-		
+		self.word = 
 		
 	# Método para adivinhar a letra
 	def guess(self, letter):
